@@ -2,3 +2,11 @@
 function helloWorld() {
     return "Hello, World!";
 }
+
+function isSeven(input){
+    return input==7
+}
+
+function sayHello(){
+    return "";
+}
